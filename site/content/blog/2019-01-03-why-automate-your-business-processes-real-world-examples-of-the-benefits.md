@@ -1,6 +1,6 @@
 ---
 title: Why Automate Your Business Processes? Real World Examples of the Benefits
-date: 2018-01-03T06:00:00.000Z
+date: 2019-01-03T06:00:00.000Z
 description: >-
   When some companies hear “business automation” they think it’s something only larger companies do and the “more trouble than it’s worth” mentality can hold them back.
 image: /img/Why Automate Your Business Processes_ Real World Examples of the Benefits.png
