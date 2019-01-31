@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<div class="container text-xs-center">
+    <div class="block">
+        <h1 class="mb-0 text-uppercase">Ion Technologies Blog</h1>
+    </div>
+</div>
+
+<div class="container">
+
+  <div class="row">
+    {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+      <div class="col-sm-12 col-md-6">
+        {{ .Render "li"}}
+      </div>
+    {{ end }}
+  </div>
+  {{ partial "pagination" . }}
+</div>
+
+{{end}}

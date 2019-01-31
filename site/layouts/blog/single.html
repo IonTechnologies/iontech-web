@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<div class="container blog-post">
+  <div class="row justify-content-center">
+    <div class="col" style="max-width: 900px;">
+      <h1 class="text-center text-uppercase">{{.Title}}</h1>
+      <div class="d-flex justify-content-between font-weight-light">
+        <em>{{ .Date.Format "Mon, Jan 2, 2006" }}</em>
+        <div>Read in {{ .ReadingTime }} minutes</div>
+      </div>
+      <div class="row">
+        <p>{{ .Description }}</p>
+        
+        {{ if .Params.image }}
+        <div class="row mb-3">
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%"/>
+        </div>
+        {{ end }}
+
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

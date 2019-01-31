@@ -1,27 +1,76 @@
 <head>
 
-	<title>{{ .Title }} | Kaldi</title>
+	<title>{{ .Title }} | Ion Technologies</title>
 	<link rel="stylesheet" href="/css/main.css" />
 
 	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
-
-	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
-	<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
-	<meta name="theme-color" content="#fff">
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/img/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16" />
+    <meta name="application-name" content="Ion Technologies"/>
+    <meta name="msapplication-TileColor" content="#003889" />
+    <meta name="msapplication-TileImage" content="/img/mstile-144x144.png" />
+    <meta name="google-site-verification" content="Sqa9-K6sNWOJ2jUoyX7wyTuv4hAULgotGP9rTpgMo5A" />
+    <meta name="theme-color" content="#003889">
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="Kaldi | Great coffee with a conscience">
+	<meta property="og:title" content="Ion Technologies">
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="/img/og-image.jpg">
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
+    <style>
+        .image-loader {
+            background: inherit;
+            background-size: cover;
+            background-repeat: no-repeat;
+            width: 100%;
+            display: inline-block;
+            overflow: hidden !important;
+            height: 0;
+            position: relative;
+        }
+
+        .image-loader img {
+            position: absolute;
+            width: 100%;
+        }
+
+        .image-loading {
+            opacity: 0;
+        }
+
+        .image-loaded {
+            opacity: 1;
+            transition: opacity 500ms;
+            transform: translate3d(0, 0, 0);
+        }
+    </style>
+    <script>
+        //<![CDATA[
+        // swap 'image-loading' class for 'image-loaded'
+        function imageLoaded(img) {
+            img.classList.add('image-loaded');
+            img.classList.remove('image-loading');
+        };
+        //]]>
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111878741-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-111878741-1');
+    </script>
 
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
