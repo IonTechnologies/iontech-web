@@ -1,6 +1,6 @@
 <head>
 
-	<title>{{ .Title }} | Ion Technologies</title>
+	<title>{{if .Title}}{{.Title}} | Ion Technologies{{else}}Ion Technologies{{end}}</title>
 	<link rel="stylesheet" href="/css/main.css" />
 
 	<meta charset="utf-8">
