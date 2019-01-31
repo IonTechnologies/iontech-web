@@ -2,7 +2,7 @@
 title: >-
   How the Four W's of Automation (Why? What? When? Who?) Can Benefit Your
   Business Significantly
-date: 2019-01-31T20:51:17.966Z
+date: 2019-01-31T20:30:00.000Z
 description: >-
   A technology that’s been going mainstream in the last few years is business
   automation. Whether it’s application designers building more robust automation
