@@ -140,4 +140,4 @@ They offer a free 30-day trial to give them a try. Packages offered are:
 
 Would you like some help getting the most out of a business intelligence dashboard? Ion Technologies can make sure all your data is coming into your application from a variety of sources and we’ll sit down with you to create custom reports and visualizations you can understand.
 
-<strong>Contact us via email (info@iontech.nz) or phone (+64 21 397 212) to have a chat about your specific business needs.</strong>
+<strong>Contact us via email (<a href="mailto:info@iontech.nz">info@iontech.nz</a>) or phone (<a href="tel:+6495533057">09 553 3057</a>) to have a chat about your specific business needs.</strong>
