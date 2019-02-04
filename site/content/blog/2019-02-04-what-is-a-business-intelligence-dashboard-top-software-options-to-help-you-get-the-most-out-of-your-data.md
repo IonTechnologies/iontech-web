@@ -25,7 +25,7 @@ We’re going to go over the basics of business intelligence dashboards and thei
 
 BI dashboards are a major leap ahead from spreadsheet charting. They help managers visualize data in new ways while also having the ability to correlate multiple key performance indicators (KPIs) that intersect.
 
-Having instant &amp; live access to view any number of performance data attached to your operations can help identify areas for improvement and positive things that can be drilled down into.
+Having instant & live access to view any number of performance data attached to your operations can help identify areas for improvement and positive things that can be drilled down into.
 
 Benefits that businesses using BI dashboards report are:
 <ul>
@@ -34,7 +34,7 @@ Benefits that businesses using BI dashboards report are:
  	<li>Improved customer satisfaction</li>
  	<li>Reduced costs</li>
  	<li>Increased revenue</li>
- 	<li>Faster reporting &amp; analysis</li>
+ 	<li>Faster reporting & analysis</li>
  	<li>More accurate reporting</li>
  	<li>Improved operational efficiency</li>
  	<li>Increased competitive advantage</li>
