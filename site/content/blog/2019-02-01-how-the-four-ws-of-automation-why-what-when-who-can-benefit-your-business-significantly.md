@@ -93,4 +93,4 @@ Automation can help companies with regulatory compliance, reducing their risk of
 
 <a href="https://www.iontech.nz/about-us">Ion Technologies</a> are business automation experts. We can help you identify exactly where automation will save you the most time and money.
 
-<strong>Contact us via [email](mailto:info@iontech.nz) or phone (+64 21 397 212) to have a chat about your specific business needs.</strong>
+<strong>Contact us via email (<a href="mailto:info@iontech.nz">info@iontech.nz</a>) or phone (<a href="tel:+6495533057">09 553 3057</a>) to have a chat about your specific business needs.</strong>
