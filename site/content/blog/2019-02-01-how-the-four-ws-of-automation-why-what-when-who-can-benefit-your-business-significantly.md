@@ -20,7 +20,9 @@ Another important area where automation can significantly impact a company’s b
 <strong><em>Companies that use marketing automation report 3 times more leads passed to sales after one month (<a href="http://www.fathomdelivers.com/blog/marketing-automation/28-marketing-automation-stats-that-matter/">Fathom</a>)</em></strong>
 
 Let’s get started with a primer on business automation and why it’s so important to incorporate it into your office.
-<h2>What You Need to Know About Automating Your Business Processes</h2>
+
+## What You Need to Know About Automating Your Business Processes
+
 So, what are the Four W’s of business automation all about? They encompass the following key points that business owners need to know in order to make impactful decisions about this technology.
 <ul>
  	<li>Why automate?</li>
@@ -30,7 +32,8 @@ So, what are the Four W’s of business automation all about? They encompass the
 </ul>
 Over the next three years (2019 to 2021), the global business process automation market is expected to <a href="https://www.statista.com/statistics/740593/worldwide-business-process-automation-market-size/">grow by 55%</a>. It’s not just a trend, it’s becoming a business necessity.
 
-### <strong>Why Automate?</strong>
+### Why Automate?
+
 Here are some of the biggest reasons that companies implement business process automation.
 
 <strong>Too Much Time Spent on a Process</strong>
@@ -48,7 +51,8 @@ Automation reduces the chance of human error because every task is completed the
 <strong>Customer Consistency</strong>
 
 One of your new customers received a welcome package, the other one didn’t because two different reps were handling them. By automating a customer care process, you can ensure that your client experience is consistent, no matter which of your team members are handling the contact.
-<h3><strong>What to Automate?</strong></h3>
+
+### What to Automate?
 Here are three examples of successful ways businesses implement process automation.
 
 <strong>Lead Nurturing</strong>
@@ -63,7 +67,7 @@ The right automations can gather data from multiple sources and allow you to cre
 
 Bring data from various sources all into your accounting program without need to re-enter data. Automations can automatically update a customer or vendor file from data collected from an online form or mobile device app.
 
-### When to Automate?</strong>
+### When to Automate?
 
 <strong>Evaluating Billable vs Admin Time Ratios</strong>
 
@@ -76,7 +80,8 @@ If your staff is doing input rather than their true calling it can bring down mo
 <strong>Need to Close More Sales</strong>
 
 It’s easy to miss sales opportunities when the lead nurturing process is done manually. Automation lets you drill down into messages that work to close more sales.
-<h3><strong>Who Should Automate?</strong></h3>
+
+### Who Should Automate?
 <strong>Growing Companies</strong>
 
 Businesses with less resources can do more by adding business automation. It frees up staff time and helps a small business function like an enterprise corporation.
