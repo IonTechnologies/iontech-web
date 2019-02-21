@@ -54,7 +54,9 @@ Power BI can be used alone, and is also part of the Microsoft Power platform whi
  	<li>Power BI: unlock insights to drive your business</li>
  	<li>Microsoft Flow: powerful workflow automations</li>
 </ul>
-<strong>Power BI Features:</strong>
+
+#### Power BI Features:
+
 <ul>
  	<li>Connect directly to your data either on premises or in the cloud</li>
  	<li>Real-time, streaming data</li>
@@ -66,7 +68,7 @@ Power BI can be used alone, and is also part of the Microsoft Power platform whi
  	<li>Security features for role-based security and data protection</li>
 </ul>
 
-<strong>Power BI Pricing:</strong>
+#### Power BI Pricing:
 
 Microsoft offers a free 60-day trial to allow you to get familiar with Power BI Pro before you buy. They have three options to choose from:
 <ul>
@@ -86,7 +88,9 @@ Their four-step process is:
  	<li>Assemble</li>
  	<li>Display</li>
 </ul>
-<strong>Geckoboard Features: </strong>
+
+#### Geckoboard Features:
+
 <ul>
  	<li>Pull in metrics from 60+ code-free integrations</li>
  	<li>Broadcast live business metrics in minutes</li>
@@ -97,7 +101,8 @@ Their four-step process is:
  	<li>Customize to match your brand</li>
  	<li>Invite colleagues to build and edit dashboards</li>
 </ul>
-<strong>Geckoboard Pricing:</strong>
+
+#### Geckoboard Pricing:
 
 They offer a free 30-day trial to allow you try out the application, and pricing options are:
 <ul>
@@ -107,6 +112,7 @@ They offer a free 30-day trial to allow you try out the application, and pricing
 </ul>
 
 ### Yellowfin
+
 Yellowfin was founded in Australia in 2003 with a goal of making analytical tools better and more comprehensive. They offer a full suite of analytics products which provide the ability to:
 <ul>
  	<li>Build AI-powered dashboards</li>
@@ -115,7 +121,9 @@ Yellowfin was founded in Australia in 2003 with a goal of making analytical tool
  	<li>Prepare data for analysis</li>
  	<li>Analyze data for insights</li>
 </ul>
-<strong>Yellowfin Features:</strong>
+
+#### Yellowfin Features:
+
 <ul>
  	<li>Simple to build dashboards</li>
  	<li>AI powered for faster insights</li>
@@ -126,7 +134,8 @@ Yellowfin was founded in Australia in 2003 with a goal of making analytical tool
  	<li>Share insights with your team faster</li>
  	<li>On premises or cloud-based</li>
 </ul>
-<strong>Yellowfin Pricing:</strong>
+
+#### Yellowfin Pricing:
 
 They offer a free 30-day trial to give them a try. Packages offered are:
 <ul>
