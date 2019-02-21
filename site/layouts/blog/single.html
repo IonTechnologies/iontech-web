@@ -8,11 +8,11 @@
         <em>{{ .Date.Format "Mon, Jan 2, 2006" }}</em>
         <div>Read in {{ .ReadingTime }} minutes</div>
       </div>
-      <div class="row">
+      <div>
         <p>{{ .Description }}</p>
         
         {{ if .Params.image }}
-        <div class="row mb-3">
+        <div class="mb-3">
             <img src="{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%"/>
         </div>
         {{ end }}
