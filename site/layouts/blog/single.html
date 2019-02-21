@@ -3,9 +3,10 @@
 <div class="container blog-post">
   <div class="row justify-content-center">
     <div class="col" style="max-width: 900px;">
-      <h1 class="text-center text-uppercase">{{.Title}}</h1>
-      <div class="d-flex justify-content-between font-weight-light">
-        <em>{{ .Date.Format "Mon, Jan 2, 2006" }}</em>
+      <h1 class="text-center">{{.Title}}</h1>
+
+      <div class="d-flex justify-content-between font-weight-light mb-3">
+        <div>{{ .Date.Format "Monday January 2, 2006" }}</div>
         <div>Read in {{ .ReadingTime }} minutes</div>
       </div>
       <div>
