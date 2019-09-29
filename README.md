@@ -20,6 +20,7 @@ Once the initial build finishes, you can invite yourself as a user. Go to the Id
 Now you're all set, and you can start editing content!
 
 ## Local Development
+Install node 9.0.0; this repo uses gulp3 which is incompatible with node 10.0.0+
 
 Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
 
