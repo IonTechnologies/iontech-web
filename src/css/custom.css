@@ -1,4 +1,12 @@
+body {
+    font-size: 20px;
+}
+
 .blog-post {
     font-size: 1.2em;
     font-weight: 400;
+}
+
+.font-weight-lighter {
+    font-weight: lighter !important;
 }
