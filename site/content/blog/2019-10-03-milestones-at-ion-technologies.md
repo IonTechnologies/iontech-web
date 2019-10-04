@@ -1,6 +1,6 @@
 ---
 title: Milestones at Ion Technologies
-date: 2019-10-07T07:26:57.500Z
+date: 2019-10-04T02:26:57.500Z
 description: >-
   It's been almost two years since I started Ion Technologies. Here's some of
   the things we've achieved in that time.
