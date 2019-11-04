@@ -1,8 +1,8 @@
 ---
 Name: Jamie Penney
-Title: The Jack Of All Trades
+JobTitle: The Jack Of All Trades
+
 weight: 1
-headless: true
 Qualifications: Bachelor of Engineering (Honours) in Software Engineering from the University of Auckland
 ProgrammingLanguages:
     - C++

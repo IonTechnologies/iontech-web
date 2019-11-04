@@ -1,8 +1,7 @@
 ---
 Name: Phillip Hutchings
-Title: The Brains
+JobTitle: The Brains
 weight: 3
-headless: true
 Qualifications: BCA (Information Systems) from Victoria University, 2004
 ProgrammingLanguages:
     - C++

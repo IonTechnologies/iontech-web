@@ -1,8 +1,7 @@
 ---
 Name: Nick Lironi-Irvine
-Title: The Organiser
+JobTitle: The Organiser
 weight: 2
-headless: true
 Qualifications: Bachelor of Engineering (Honours) in Software Engineering from the University of Auckland
 ProgrammingLanguages:
     - Java
