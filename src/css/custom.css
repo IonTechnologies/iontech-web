@@ -10,3 +10,51 @@ body {
 .font-weight-lighter {
     font-weight: lighter !important;
 }
+
+.profile-image {
+    width: 100%;
+    border-radius: 3px;
+}
+
+.avatar-image {
+    width: 50%;
+    border-radius: 3px;
+}
+
+
+@media (max-width: 768px) {
+    .avatar-image {
+        width: 80%;
+    }
+}
+
+@media (max-width: 991px) {
+    .avatar-image {
+        width: 70%;
+    }
+}
+
+.job-title {
+    display: block;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .job-title {
+        min-height: 2.5em;
+    }
+}
+
+@media (max-width: 576px) {
+.bordered-sm:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    content: '';
+    width: 33%;
+    margin: 0 auto;
+    border-top: 1px solid;
+    border-top-color: #ccc;
+    border-top-color: rgba(0, 0, 0, 0.1); }
+}
