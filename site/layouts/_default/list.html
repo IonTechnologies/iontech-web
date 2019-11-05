@@ -3,6 +3,8 @@
 
 <div class="container">
 
+  {{ .Content }}
+
   <div class="row">
       
     {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}

@@ -1,5 +1,6 @@
 ---
 Name: Phillip Hutchings
+FirstName: Phillip
 JobTitle: The Brains
 weight: 3
 Qualifications: BCA (Information Systems) from Victoria University, 2004
@@ -23,7 +24,11 @@ Technologies:
     - Redux
     - SQL ALchemy
 
-image: /img/avatar-phillip.jpg
+Avatar: /img/avatar-phillip.jpg
+Profile: /img/profile-phillip.jpg
+
+Summary: Phillip has worked across the industry covering every aspect from concept development to execution.
+
 ---
 
 Phillip has worked across the industry covering every aspect from concept development to execution.

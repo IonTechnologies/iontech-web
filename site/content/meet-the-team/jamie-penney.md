@@ -1,5 +1,6 @@
 ---
 Name: Jamie Penney
+FirstName: Jamie
 JobTitle: The Jack Of All Trades
 
 weight: 1
@@ -28,7 +29,13 @@ Technologies:
     - Redux
     - SQLAlchemy
 
-image: /img/avatar-jamie.jpg
+avatar: /img/avatar-jamie.jpg
+profile: /img/profile-jamie.jpg
+
+summary:
+    A great communicator, with a real ability to translate complicated technical information into plain
+    English, Jamie is the person who will help scope out your project.
+
 ---
 
 Jamie is the founder of Ion Technologies. After many years working in Auckland and Wellington for

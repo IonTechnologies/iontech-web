@@ -1,5 +1,6 @@
 ---
 Name: Nick Lironi-Irvine
+FirstName: Nick
 JobTitle: The Organiser
 weight: 2
 Qualifications: Bachelor of Engineering (Honours) in Software Engineering from the University of Auckland
@@ -17,7 +18,12 @@ Technologies:
     - Stripes + JSP
     - Test Driven Development using JUnit
 
-image: /img/avatar-nick.jpg
+avatar: /img/avatar-nick.jpg
+profile: /img/profile-nick.jpg
+
+Summary:
+    Nick specialises in web application development using Java technologies.
+
 ---
 
 Nick specialises in web application development using Java technologies.
