@@ -1,6 +1,8 @@
 ---
-title: About Us
+title: Software developers & mobile app developers – Northland
 type: about-us
+description: >-
+    Based in Kerikeri, we specialise in software development, system integration, data migration, automating systems and designing intelligent reporting systems
 ---
 <div class="container text-center app-translate-15" data-transition="entrance">
     <div class="block block-bordered-lg">
@@ -9,7 +11,7 @@ type: about-us
         </div>
         <div class="row justify-content-center">
             <div class="col-sm-8 text-center my-5">
-                <h2>About Us</h2>
+                <h1>About Us</h1>
             </div>
         </div>
         <div class="row text-justify">
