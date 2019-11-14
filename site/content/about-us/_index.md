@@ -6,8 +6,8 @@ description: >-
 ---
 <div class="container text-center app-translate-15" data-transition="entrance">
     <div class="block block-bordered-lg">
-        <div class="row justify-content-center">
-            <img style="width:100%" src="/img/team.jpg">
+        <div class="row">
+            <img style="width:100%;height:auto;align-self: center;" src="/img/team.jpg">
         </div>
         <div class="row justify-content-center">
             <div class="col-sm-8 text-center my-5">
