@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+
+<div class="container">
+
+  <div class="row justify-content-center">
+    <div class="col-sm-8 text-center mb-5">
+        <h1>Our Services</h1>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-12 text-justify">
+      {{ .Content }}
+    </div>
+  </div>
+
+  <div class="row px-2">
+    {{ range .Pages }}
+      <div class="mt-3 col-sm-12 col-xl-4">
+        <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+        <div class="text-justify">
+          {{ .Description }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+
+{{end}}

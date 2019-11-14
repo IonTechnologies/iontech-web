@@ -1,7 +1,25 @@
 {{ define "main" }}
 
 <div class="container">
-    {{ .Content }}
+    {{ if .Params.image }}
+    <div class="row">
+        <img class="hero-image hero-image--half-width" src={{ .Params.image }} />
+    </div>
+    {{ end }}
+
+    <div class="row mt-5">
+        <h1 class="col-12 text-center">{{.Title}}</h1>
+
+        {{ if .Params.subtitle }}
+        <h2 class="col-12 text-center">{{.Params.subtitle}}</h2>
+        {{ end }}
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+        {{ .Content }}
+        </div>
+    </div>
 </div>
 
 {{ end }}
