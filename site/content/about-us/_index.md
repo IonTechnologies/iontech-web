@@ -19,7 +19,7 @@ description: >-
                 At Ion Technologies, we have three Directors who all work fulltime in the business.  Each has their own area of expertise and qualifications which combined, offer a technical competency unmatched by any other Northland software development and engineering company.
             </p>
             <p>
-                But what really sets our team apart is the ability to ask the right questions to clearly understand the outcome you are looking for and then design a practical solution that will continue to work for you long-term. While we're highly qualified and experienced in most software programmes and coding (and happy to talk technical where required), the team will work with you and your staff explaining the process in plain English so that everyone is on the same page.
+                But what really sets <a href="/meet-the-team">our team</a> apart is the ability to ask the right questions to clearly understand the outcome you are looking for and then design a practical solution that will continue to work for you long-term. While we're highly qualified and experienced in most software programmes and coding (and happy to talk technical where required), the team will work with you and your staff explaining the process in plain English so that everyone is on the same page.
             </p>
             <p>
                 While our core team is small, we have a raft of highly skilled specialists that we call in for large projects and/or tight deadlines. This enables us to build a team based on your exact requirements and to provide senior skills at cost-effective prices.
@@ -39,6 +39,7 @@ description: >-
                 <li><strong>Process Automation</strong> – increase accuracy and efficiency by reducing the amount of manual input and data entry</li>
                 <li><strong>Software Selection / Open Source</strong> – avoid reinventing the wheel. Tell us what you need to achieve and we can help identify existing software solutions that will best suit your business needs and, if need be, customise it help perform better for you</li>
             </ul>
+            <p><a href="/meet-the-team">Click here</a> to learn more about the Ion Technologies team.</p>
         </div>
     </div>
     <div class="block block-bordered-lg">
