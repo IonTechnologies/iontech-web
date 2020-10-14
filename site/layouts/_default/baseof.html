@@ -3,7 +3,6 @@
   <head>
 
     <title>{{if .Title}}{{.Title}} | Ion Technologies{{else}}Ion Technologies{{end}}</title>
-    <link rel="stylesheet" href="/css/main.css" />
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -33,7 +32,10 @@
     {{ end }}
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700" rel="stylesheet">
-      <link href="/css/main.css" rel="stylesheet">
+    {{ $stylesheet := .Site.Data.webpack.main }}
+    {{ with $stylesheet.css }}
+      <link href="{{ relURL . }}" rel="stylesheet">
+    {{ end }}
       <style>
           .image-loader {
               background: inherit;
@@ -93,5 +95,9 @@
     {{ partial "nav" . }}
     {{ block "main" . }}{{ end }} 
     {{ partial "footer" . }} 
+    {{ $script := .Site.Data.webpack.main }}
+    {{ with $script.js }}
+      <script src="{{ relURL . }}"></script>
+    {{ end }}
   </body>
 </html>

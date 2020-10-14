@@ -1,0 +1,28 @@
+{
+  "cms": {
+    "js": "cms.js"
+  },
+  "main": {
+    "css": "main.css",
+    "js": "main.js"
+  },
+  "": {
+    "ttf": [
+      "/0cf79cbc050f26d0a33dd7325ffc8add.ttf",
+      "fonts/toolkit-entypo.ttf"
+    ],
+    "woff2": [
+      "/86c929e34996ffce66ef471954b7710e.woff2",
+      "fonts/toolkit-entypo.woff2"
+    ],
+    "woff": [
+      "/b8b3b3839a363cff5eac814c240f27f8.woff",
+      "fonts/toolkit-entypo.woff"
+    ],
+    "eot": [
+      "/fcfa07e028b6145ffebd892986a56432.eot",
+      "fonts/toolkit-entypo.eot"
+    ],
+    "html": "admin/index.html"
+  }
+}
