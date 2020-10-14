@@ -1,3 +1,9 @@
 baseurl = "/"
 languageCode = "en-nz"
 title = "Homepage"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.renderer]
+  unsafe = true
