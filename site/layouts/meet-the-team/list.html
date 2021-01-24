@@ -7,10 +7,17 @@
         </div>
     </div>
 
+    {{ $scratch := newScratch }}
+    {{ $scratch.Set "ColSize" "4" }}
+
+    {{ if le (len .Pages) 2 }}
+        {{ $scratch.Set "ColSize" "6" }}
+    {{ end }}
+
     <div class="row">
         {{ range .Pages }}
 
-        <div class="col-md-4 mb-sm-5 px-sm-3" id="{{ lower (replace .Params.Name " "  "_") }}">
+        <div class="col-md-{{ $scratch.Get "ColSize" }} mb-sm-5 px-sm-3" id="{{ lower (replace .Params.Name " "  "_") }}">
             <h2 class="mt-3">{{ .Params.Name }}</h2>
             <h3 class="job-title">{{ .Params.JobTitle }}</h3>
             <a href="{{ .Permalink }}">
