@@ -1,5 +1,5 @@
 ---
-title: Software developers & mobile app developers – Northland
+title: Software developers – Northland
 type: about-us
 description: >-
     Based in Kerikeri, we specialise in software development, system integration, data migration, automating systems and designing intelligent reporting systems
